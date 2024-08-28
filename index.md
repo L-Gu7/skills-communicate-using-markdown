@@ -9,3 +9,7 @@
 ``` java
 names.forEach(System.out::println);
 ```
+## Task List
+- [ ] Polish the resume
+- [x] Learn github skills
+- [ ] Get an internship
