@@ -3,4 +3,4 @@
 ## Extended Syntax
 
 ## Lovely octocat
-![Image of Yaktocat](https://octodex.github.com/images/privateinvestocat.jpg)
+![Image of Private Investocat](https://octodex.github.com/images/privateinvestocat.jpg)
